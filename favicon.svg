@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Curious Logic">
+  <rect width="32" height="32" rx="7" fill="#020617"/>
+  <!-- C (opens to the right) -->
+  <path fill="none" stroke="#2dd4bf" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"
+        d="M 11.5 9.25 C 7.25 9.25 7.25 22.75 11.5 22.75"/>
+  <!-- L -->
+  <path fill="none" stroke="#2dd4bf" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"
+        d="M 16.75 9.25 V 22.75 H 24.25"/>
+</svg>
